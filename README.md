@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 \# PRODIGY\_CS\_02
 
 
@@ -58,3 +59,7 @@ python image\_cipher.py
 
 
 
+=======
+# PRODIGY_CS_02
+Task-02: Image Encryption-Decryption Tool using Python (Cybersecurity Track)
+>>>>>>> 44c90bf87716743210822f2c9aa72fad2c624656
